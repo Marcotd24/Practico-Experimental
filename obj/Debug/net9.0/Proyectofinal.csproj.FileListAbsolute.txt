@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\bin\Debug\net9.0\Proyectofinal.exe
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\bin\Debug\net9.0\Proyectofinal.deps.json
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\bin\Debug\net9.0\Proyectofinal.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\bin\Debug\net9.0\Proyectofinal.dll
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\bin\Debug\net9.0\Proyectofinal.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.dll
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\refint\Proyectofinal.dll
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.pdb
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\Proyectofinal.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Documentos\Estructura de datos\Proyectofinal\obj\Debug\net9.0\ref\Proyectofinal.dll
